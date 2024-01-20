@@ -1,4 +1,4 @@
-# Device proprietary files - from sky HyperOS V816.0.5.0.UMWCNXM package, unless pinned
+# Device proprietary files - from sky MIUI V14.0.7.0.TMWINXM package, unless pinned
 
 # ACDB
 vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.36_enpu2.pmd
@@ -1599,7 +1599,7 @@ vendor/lib/libvideooptfeature.so
 vendor/lib64/libvideooptfeature.so
 
 # Power-off alarm
-system_ext/app/PowerOffAlarm/PowerOffAlarm.apk
+product/app/PowerOffAlarm/PowerOffAlarm.apk
 system_ext/framework/vendor.qti.hardware.alarm-V1.0-java.jar
 vendor/bin/hw/vendor.qti.hardware.alarm@1.0-service
 vendor/bin/power_off_alarm
