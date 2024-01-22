@@ -23,6 +23,9 @@ $(call inherit-product, vendor/xiaomi/sky/sky-vendor.mk)
 
 # Derpfest
 DERP_BUILDTYPE := Official
+TARGET_IS_PIXEL := true
+TARGET_IS_PIXEL_6 := true
+TARGET_USES_PICO_GAPPS := true
 
 ## Device identifier
 PRODUCT_DEVICE := sky
